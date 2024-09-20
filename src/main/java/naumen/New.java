@@ -1,2 +1,4 @@
-package naumen;public class New {
+package naumen;
+
+public class New {
 }
