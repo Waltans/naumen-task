@@ -7,7 +7,6 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
     <artifactId>child</artifactId>
-    <version>1.0</version>
 
     <dependencies>
         <dependency>
